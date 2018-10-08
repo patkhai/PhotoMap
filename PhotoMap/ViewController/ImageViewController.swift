@@ -9,10 +9,13 @@
 import UIKit
 
 class ImageViewController: UIViewController {
-
+    
+    var images : UIImage!
+    @IBOutlet weak var imagePhoto: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        imagePhoto.image = images
         // Do any additional setup after loading the view.
     }
 
