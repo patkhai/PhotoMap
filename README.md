@@ -32,7 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-![Image]<https://media.giphy.com/media/l17GR79yKVmJGujHN9/giphy.gif>
+![Imgur](https://media.giphy.com/media/l17GR79yKVmJGujHN9/giphy.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
